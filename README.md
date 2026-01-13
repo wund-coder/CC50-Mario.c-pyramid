@@ -1,6 +1,7 @@
 # CC50 - Mario
 Exercício CC50 - Implementação de pirâmides em C utilizando um loop (for e while).
 
+Exercício para compreender melhor a linguagem em C.
 O programa recebe uma entrada de 1 a 8, caso o usuário digite um número negativo ou menor que 1, ele solicitará novamente um número para o usuário. Caso o usuário digite um número maior que 8, ele repetirá e solicitará outro número ao usuário.
 Quando um número válido, entre 1 a 8 é digitado, ele gerará uma pirâmide com a altura solicitada.
 
