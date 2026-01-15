@@ -10,7 +10,7 @@ Nesse exercício consegui compreender melhor as chaves {}, as quais passei a cha
 
 ### Exemplo de execução:
 Quando a altura inserida é `4`, o programa imprime:
-´´´text
+```text
    #  #
   ##  ##
  ###  ###
