@@ -7,3 +7,10 @@ Quando um número válido, entre 1 a 8 é digitado, ele gerará uma pirâmide co
 
 Tive que lidar com Nested Loops, no caso os dois laços "for".
 Aprendi a validar a entrada do usuário, utilizando o "while", e um certo probleminha que me ensinou algo:(Diferença entre `j < i e j <= i`), até entender a necessidade do "=", minha pirâmide imprimia faltando sempre 1 de altura solicitada pelo usuário!
+
+### Exemplo de execução:
+Quando a altura inserida é `3`, o programa imprime:
+```text
+   #  #
+  ##  ##
+ ###  ###
