@@ -1,4 +1,4 @@
-#CC50 - Mario-more
+# CC50 - Mario-more
 
 Esse exercício é referente ao curso de Havard CS50, no Brasil CC50. 
 É uma varíavel mais complicada do Mario-less. O usuário será solicitado um número entre 1 a 8, caso o número seja menor que 1 ou maior que 8, o usuário será questionado novamente sobre a altura.
@@ -10,7 +10,7 @@ Nesse exercício consegui compreender melhor as chaves {}, as quais passei a cha
 
 ### Exemplo de execução:
 Quando a altura inserida é `4`, o programa imprime:
-
+´´´text
    #  #
   ##  ##
  ###  ###
