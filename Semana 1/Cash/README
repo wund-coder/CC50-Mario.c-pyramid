@@ -1,0 +1,7 @@
+#Cash - CC50
+
+Neste programa vou trabalhar e entender melhor o "Greedy Algorithm", ou "Algoritmo Ganancioso".
+A ideia desse programa é a seguinte:
+Vamos imagina um caixa ganancioso, em um cenário aonde ele sempre dará o troco exato, sem mais nem menos, vamos colocar 4 tipos de moedas na mesa, 25 centavos, 10 centavos, 5 centavos e 1 centavo.
+Supondo que o valor que devemos ao cliente é 36 centavos, devemos dar 1 moeda de 25 centavos, 1 de 10 centavos, 1 de 5 centavos e a última de 1 centavo, totalizando 36 centavos, dando o total de 4 moedas utilizadas.
+Caso o usuário digite um número inválido ou alguma letra, o programa deve rejeitar e solicitar novamente o número.
