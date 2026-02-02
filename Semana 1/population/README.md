@@ -5,3 +5,15 @@ Esse programa se baseia em pedir um número de população ao usuário e uma qua
 O programa então com uma base na qual (1/3 da população nascem por ano e 1/4 da população morrem por ano), calcula a quantidade de anos que levaria para a população com a quantidade selecionada pelo usuário levaria para ter a quantidade desejada!
 Caso o número inicial da população selecionado pelo jogador seja maior que a meta da população, o programa irá pedir novamente ao usuário a meta.
 
+### Exemplo de execução:
+
+```text
+$ make population
+
+$ ./population
+
+População Inicial:500
+
+Expansão da População:1000
+
+Anos:3
