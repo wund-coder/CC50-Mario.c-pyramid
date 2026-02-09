@@ -6,7 +6,9 @@ Cifra de César basicamente é um método clássico e simples de criptografia de
 O computador não enxerga letras, apenas números, cada letra que ele imprime é um número para ele, pesquisando a tabela ASCII é possível ver o número de cada sinal ou letra para o computador.
 O intuito do projeto é criptografar uma mensagem, o usuário será solicitado um texto ou palavra e o projeto irá criptografar automaticamente em formato de Ceasar.
 
+
 -Como Funciona?
+
 O programa ao ser executado solicitará uma "chave", essa chave será o número de casas que o projeto pulará para criptografar a mensagem, por exemplo:
 A na tabela ASCII é a numeração 65, caso a chave escolhida seja 10, a letra 'A' se tornará 'K', pois o número dele é 75 e assim por diante.
 As letras maiúsculas continuam maiúsculas e as minúsculas continuam minúsculas! O programa ignora pontuação.
