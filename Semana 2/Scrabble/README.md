@@ -24,8 +24,15 @@ Para este projeto, utilizamos uma tabela de valores onde cada letra possui uma p
 
 O objetivo do jogo é tirar a maior pontuação possível em uma palavra.
 O jogador que mais obteve pontos na palavra, obviamente se torna o vencedor!
+Caso ocorra algum empate, o programa responderá no lugar do nome do vencedor "Tie!"
 
 ```text
-$ make Scrabble
+$ make scrabble
 
-$ ./caesar 2 ----> (chave)
+$ ./scrabble
+
+Jogador 1:Folha
+
+Jogador 2:Madeira
+
+Jogador 2 wins
