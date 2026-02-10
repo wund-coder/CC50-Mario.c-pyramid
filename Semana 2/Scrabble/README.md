@@ -1,6 +1,7 @@
 # Scrabble - CC50
 
-Scrabble foi o primeiro exercício da semana 2 do CC50! Scrabble é um jogo de palavras, aonde o jogador 1 jogará contra o jogador 2.
+Scrabble foi o primeiro exercício da semana 2 do CC50! E nessa semana vamos nos aprofundar em Arrays. 
+Scrabble é um jogo de palavras, aonde o jogador 1 jogará contra o jogador 2.
 
 Como o projeto funciona?
 
@@ -20,8 +21,6 @@ Para este projeto, utilizamos uma tabela de valores onde cada letra possui uma p
 | **E** | 1     | **L** | 1     | **S** | 1     | **Z** | 10    |
 | **F** | 4     | **M** | 3     | **T** | 1     |       |       |
 | **G** | 2     | **N** | 1     | **U** | 1     |       |       |
-
-> **Dica:** No código em C, você pode mapear esses valores usando um array de inteiros, onde o índice `0` corresponde à letra 'A'.
 
 O objetivo do jogo é tirar a maior pontuação possível em uma palavra.
 O jogador que mais obteve pontos na palavra, obviamente se torna o vencedor!
