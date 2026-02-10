@@ -26,6 +26,7 @@ O objetivo do jogo é tirar a maior pontuação possível em uma palavra.
 O jogador que mais obteve pontos na palavra, obviamente se torna o vencedor!
 Caso ocorra algum empate, o programa responderá no lugar do nome do vencedor "Tie!"
 
+Como executar
 ```text
 $ make scrabble
 
