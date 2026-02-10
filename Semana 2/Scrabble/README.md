@@ -25,3 +25,7 @@ Para este projeto, utilizamos uma tabela de valores onde cada letra possui uma p
 O objetivo do jogo é tirar a maior pontuação possível em uma palavra.
 O jogador que mais obteve pontos na palavra, obviamente se torna o vencedor!
 
+```text
+$ make Scrabble
+
+$ ./caesar 2 ----> (chave)
