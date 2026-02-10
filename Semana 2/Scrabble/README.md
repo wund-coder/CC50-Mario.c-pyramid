@@ -1,6 +1,7 @@
 # Scrabble - CC50
 
 Programado em C.
+
 Scrabble foi o primeiro exercício da semana 2 do CC50! E nessa semana vamos nos aprofundar em Arrays. 
 Scrabble é um jogo de palavras, aonde o jogador 1 jogará contra o jogador 2.
 
