@@ -10,4 +10,4 @@ Exemplo da chave:
 -Caso você escolha a chave "ZYXWVUTSRQPONMLKJIHGFEDCBA" e queira escrever para substituir "ABC", o programa vai resultar como "ZYX".
 
 Exemplo de ativção
-´´´text
+```text
