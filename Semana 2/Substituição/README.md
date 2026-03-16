@@ -12,4 +12,9 @@ Exemplo da chave:
 Exemplo de ativação
 ```text
 $make substitution
-./substitution
+
+./substitution (Chave - Deve contar no 26 caracteres)
+
+Plaintext: (escreva o que quiser substituir)
+
+Ciphertext:Substituição
