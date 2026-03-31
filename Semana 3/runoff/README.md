@@ -11,4 +11,14 @@ NOTA:O programa solicita que o nome do Candidato seja o mesmo na hora dos votos,
 
 Como executar
 ``` text
-$
+$make runoff
+
+./runoff Alice Bob Charlie <--- [nome dos candidatos]
+
+Number of voters:1 <--- [Número de rodadas]
+
+Rank 1:  <--- [Inserir o nome do candidato o qual deseja votar]
+Rank 2:
+Rank 3:
+
+Resultado: [Vencedor ou empate]
